@@ -6,7 +6,7 @@
     width="600"/>
   </p>
   <h1 style="font-size: 1.5em;">
-    A complete, open-source developer platform for Kubernetes
+    A complete, open-source developer platform for Kubernetes.
   </h1>
   <p>OpenChoreo is a developer platform for Kubernetes offering development and architecture abstractions, a Backstage-powered developer portal, application CI/CD, GitOps, and observability.</P>
 
